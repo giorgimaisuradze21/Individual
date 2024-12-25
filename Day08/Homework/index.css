@@ -13,7 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: darkblue;
+    background-color: hsl(233, 47%, 7%);
 }
 
 .container1{
@@ -113,7 +113,7 @@
     position: absolute;
     left: 39%;
     bottom: 49%;
-    background-color: (233, 47%, 7%)
+    background-color: hsl(233, 47%, 7%);
 }
 
 .image img{
